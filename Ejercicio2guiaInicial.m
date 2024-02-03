@@ -1,4 +1,4 @@
-1%2. Elaborar un programa que lea una matriz de números (de cualquier dimensión) y 
+%2. Elaborar un programa que lea una matriz de números (de cualquier dimensión) y 
 % muestre los siguiente elementos:
 %Suma de los elementos de cada una de sus filas 
 % Suma de los elementos de cada una de sus columnas 
