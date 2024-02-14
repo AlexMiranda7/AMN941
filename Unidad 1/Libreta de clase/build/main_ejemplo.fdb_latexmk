@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1707878334.18527 "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1707878336.4116 0
+["pdflatex"] 1707883153.05097 "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1707883155.38433 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707876763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -211,13 +211,13 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/main_ejemplo.aux" 1707878336 447 8521c0b8555a34242e165f716a500cd8 "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" 1707878332 5031 4e38989f35cda2850470310f753dc3ed ""
+  "build/main_ejemplo.aux" 1707883155 447 8521c0b8555a34242e165f716a500cd8 "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" 1707883152 5524 840a01949f5060e31e91bbb814eacde5 ""
   "img/ejemplo3.png" 1707872367 16795 84f5bcd489075de0927db6c23a070725 ""
   "img/ejemplo_clasePunto.png" 1707876496 3391 9f8164a0487d763410dc3fb38c57a038 ""
   "img/ejemplo_clasePunto_2.png" 1707877515 3444 f163b116020b53a1bc658d2b25df5297 ""
   "img/ejemplo_clasePunto_3.png" 1707878192 32342 729ab3ae31a3e5888c50c0b04c1e987a ""
-  "main_ejemplo.tex" 1707878332 5031 4e38989f35cda2850470310f753dc3ed ""
+  "main_ejemplo.tex" 1707883152 5524 840a01949f5060e31e91bbb814eacde5 ""
   (generated)
   "build/main_ejemplo.aux"
   "build/main_ejemplo.log"

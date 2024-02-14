@@ -61,7 +61,8 @@
 \begin{document}
     \maketitle
     Ejemplos de practica AMN941  - Usando Latex en VSCode
-    \section*{Metodo del punto}Use el método de punto para encontrar una raíz real de la ecuación
+    \section*{Punto Fijo}
+    \subsection*{Ejemplo 1}Use el método de punto para encontrar una raíz real de la ecuación
     \[
         f(x)= x^{3}+2x^{2}+10x-20 =0
         \]
@@ -96,13 +97,15 @@
 
     \noindent Probaremos esta ecuacion con el metodo de punto fijo en Matlab.
     \begin{figure}[ht]
-        \includegraphics[scale=0.9]{img/ejemplo_clasePunto_3.png}
+        \includegraphics[scale=0.8]{img/ejemplo_clasePunto_3.png}
         \caption[Metodo Punto Fijo]{Matlab 3}
     \end{figure}
     \\El valor aproximado de $x=1.368810031675092$
 
 
-    \section*{Newton}Use el método de Newton - Raphson para encontrar una solución exacta con una exactitud de $10^{-12}$ para la siguiente ecuación. Emplee 15 decimales: 
+    \section*{Newton}
+    \subsection*{Ejemplo 1}
+    Use el método de Newton - Raphson para encontrar una solución exacta con una exactitud de $10^{-12}$ para la siguiente ecuación. Emplee 15 decimales: 
     \[
         \ln(x-1)+cos(x-1)=0 ; [1.3,2]
     \]
@@ -110,7 +113,7 @@
         \includegraphics*[scale=0.9]{img/ejemplo3.png}
     \end{figure}
     
-    
-    
-    
+    \textbf{Nota:} Cuando estemos trabajando ejercicios, es importante analizar la grafica. Dado que no podemo modificar la ecuacion como en el metodo de punto fijo, debemos elegir correctamente nuestro valor inicia,
+    para esto, debemos alegarnos de: Puntos de infleccion, maximos y minimos relativos y extremos, en estas partes no nos funcionara este metodo.
+    Ademas, si la primera derivada de la ecuacion es 0, no nos funcionara este metodo.
 \end{document}
