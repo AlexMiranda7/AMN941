@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  13 FEB 2024 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  13 FEB 2024 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -696,33 +696,50 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
  (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img/ejemplo3.png, id=4, 456.20438pt x 237.13594pt>
-File: img/ejemplo3.png Graphic file (type png)
-<use img/ejemplo3.png>
-Package pdftex.def Info: img/ejemplo3.png  used on input line 69.
-(pdftex.def)             Requested size: 456.20325pt x 237.13535pt.
-
-Overfull \hbox (37.94957pt too wide) in paragraph at lines 69--70
-[][] 
- []
-
-[1
+<img/ejemplo_clasePunto.png, id=4, 207.77625pt x 115.18031pt>
+File: img/ejemplo_clasePunto.png Graphic file (type png)
+<use img/ejemplo_clasePunto.png>
+Package pdftex.def Info: img/ejemplo_clasePunto.png  used on input line 84.
+(pdftex.def)             Requested size: 207.77573pt x 115.18001pt.
+ [1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/ejemplo3.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux) ) 
+{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/ejemplo_clasePunto.png>]
+<img/ejemplo_clasePunto_2.png, id=20, 182.18062pt x 102.3825pt>
+File: img/ejemplo_clasePunto_2.png Graphic file (type png)
+<use img/ejemplo_clasePunto_2.png>
+Package pdftex.def Info: img/ejemplo_clasePunto_2.png  used on input line 92.
+(pdftex.def)             Requested size: 163.96103pt x 92.14339pt.
+<img/ejemplo_clasePunto_3.png, id=22, 502.12593pt x 317.68687pt>
+File: img/ejemplo_clasePunto_3.png Graphic file (type png)
+<use img/ejemplo_clasePunto_3.png>
+Package pdftex.def Info: img/ejemplo_clasePunto_3.png  used on input line 99.
+(pdftex.def)             Requested size: 451.90916pt x 285.91553pt.
+
+Overfull \hbox (33.65549pt too wide) in paragraph at lines 99--100
+[][] 
+ []
+
+[2 <./img/ejemplo_clasePunto_3.png> <./img/ejemplo_clasePunto_2.png>]
+<img/ejemplo3.png, id=31, 456.20438pt x 237.13594pt>
+File: img/ejemplo3.png Graphic file (type png)
+<use img/ejemplo3.png>
+Package pdftex.def Info: img/ejemplo3.png  used on input line 110.
+(pdftex.def)             Requested size: 410.58012pt x 213.42035pt.
+ [3 <./img/ejemplo3.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux) ) 
 Here is how much of TeX's memory you used:
- 28772 strings out of 476331
- 740997 string characters out of 5785878
- 1853660 words of memory out of 5000000
- 48713 multiletter control sequences out of 15000+600000
+ 28794 strings out of 476331
+ 741661 string characters out of 5785878
+ 1857660 words of memory out of 5000000
+ 48732 multiletter control sequences out of 15000+600000
  525061 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,773b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.pdf (1 page, 102256 bytes).
+<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.pdf (3 pages, 170784 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 24 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -61,12 +61,56 @@
 \begin{document}
     \maketitle
     Ejemplos de practica AMN941  - Usando Latex en VSCode
-    \section*{Ejercicio 3}Use el método de Newton - Raphson para encontrar una solución exacta con una exactitud de $10^{-12}$ para la siguiente ecuación. Emplee 15 decimales: 
+    \section*{Metodo del punto}Use el método de punto para encontrar una raíz real de la ecuación
+    \[
+        f(x)= x^{3}+2x^{2}+10x-20 =0
+        \]
+    Empleando como valor inicial $x0=1$. Emplee $15$ decimales y una precisión de $10^{-5}$.
+
+
+    \textbf{Solucion:} 
+
+    \noindent Para punto fijo, debemos obtener una ecuacion $g(x)=x$ 
+
+
+    \textbf{Opcion 1:} $x= x^{3}+2x^{2}+11x-20$
+    
+    \noindent \\ Verificamos que la ecuacion converga en el punto dado, para ello derivamos la ecuacion $g(x)$ y evaluamos en el punto, de manera que:
+
+    $g'(x)=3x^{2}+4x+11 \longrightarrow g'(1)=18$
+
+    \noindent \\ Esto lo podemos comprobar rapidamente tambien en matlab, de la siguiente manera
+    \begin{figure}[ht]
+        \includegraphics[scale=1]{img/ejemplo_clasePunto.png}
+        \caption[Derivada y evaluacion g'(x)]{Matlab 1}
+    \end{figure}
+    \\Por lo tanto, incumplimos el teorema de Banach quien expresa que $|g'(x)|<1$ \pagebreak
+    
+    \textbf{Opcion 2: }$\frac{20}{x^2+2x+10}$
+    \noindent \\Probamos esta ecuacion y derivada evaluada en matlab
+    \begin{figure}[ht]
+        \includegraphics*[scale=0.9]{img/ejemplo_clasePunto_2.png}
+        \caption[Derivada y evaluacion g'(x)]{Matlab 2}
+    \end{figure}
+    \\Como podemos observar, el resultado de la evaluacion es menor a 1, por lo tanto si converge.
+
+    \noindent Probaremos esta ecuacion con el metodo de punto fijo en Matlab.
+    \begin{figure}[ht]
+        \includegraphics[scale=0.9]{img/ejemplo_clasePunto_3.png}
+        \caption[Metodo Punto Fijo]{Matlab 3}
+    \end{figure}
+    \\El valor aproximado de $x=1.368810031675092$
+
+
+    \section*{Newton}Use el método de Newton - Raphson para encontrar una solución exacta con una exactitud de $10^{-12}$ para la siguiente ecuación. Emplee 15 decimales: 
     \[
         \ln(x-1)+cos(x-1)=0 ; [1.3,2]
     \]
     \begin{figure}[ht]
-        \includegraphics*[scale=1]{img/ejemplo3.png}
+        \includegraphics*[scale=0.9]{img/ejemplo3.png}
     \end{figure}
+    
+    
+    
     
 \end{document}
