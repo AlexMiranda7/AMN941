@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1707872713.74621 "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1707872716.15437 0
+["pdflatex"] 1707872894.72324 "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1707872897.05931 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707868928 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -208,10 +208,10 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/main_ejemplo.aux" 1707872715 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" 1707872710 3354 bcf90e87979979e0fb4063cb37794695 ""
+  "build/main_ejemplo.aux" 1707872896 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex" 1707872893 3355 05425a53b29fb3781f3c62efd9e55880 ""
   "img/ejemplo3.png" 1707872367 16795 84f5bcd489075de0927db6c23a070725 ""
-  "main_ejemplo.tex" 1707872710 3354 bcf90e87979979e0fb4063cb37794695 ""
+  "main_ejemplo.tex" 1707872893 3355 05425a53b29fb3781f3c62efd9e55880 ""
   (generated)
   "build/main_ejemplo.aux"
   "build/main_ejemplo.log"
