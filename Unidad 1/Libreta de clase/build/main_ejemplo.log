@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  13 FEB 2024 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  13 FEB 2024 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex
-(c:/Users/Alexander/Documents/GitHub/AMN941/Newton/main_ejemplo.tex
+**"c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex"
+(c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -613,7 +613,7 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 \c@theorem=\count328
 \c@definition=\count329
 \c@problem=\count330
- (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux)
+ (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux)
 \openout1 = `main_ejemplo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -722,17 +722,17 @@ File: img/ejemplo3.png Graphic file (type png)
 <use img/ejemplo3.png>
 Package pdftex.def Info: img/ejemplo3.png  used on input line 113.
 (pdftex.def)             Requested size: 410.58012pt x 213.42035pt.
- [3 <./img/ejemplo3.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux) ) 
+ [3 <./img/ejemplo3.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux) ) 
 Here is how much of TeX's memory you used:
  28794 strings out of 476331
- 741661 string characters out of 5785878
+ 741876 string characters out of 5785878
  1857660 words of memory out of 5000000
  48732 multiletter control sequences out of 15000+600000
  525061 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,773b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,8n,103p,794b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.pdf (3 pages, 173528 bytes).
+Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.pdf" (3 pages, 174600 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

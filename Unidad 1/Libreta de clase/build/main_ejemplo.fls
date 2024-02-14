@@ -1,7 +1,7 @@
-PWD c:\Users\Alexander\Documents\GitHub\AMN941\Newton
+PWD c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase
 INPUT C:\Users\Alexander\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\main_ejemplo.tex
-OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.log
+INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\main_ejemplo.tex
+OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.log
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -806,10 +806,10 @@ INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.colorbrewer.code.tex
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
-INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux
-INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux
-INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux
-OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux
+INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
+INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
+INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
+OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -889,7 +889,7 @@ INPUT .\img\ejemplo_clasePunto.png
 INPUT .\img\ejemplo_clasePunto.png
 INPUT img\ejemplo_clasePunto.png
 INPUT .\img\ejemplo_clasePunto.png
-OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.pdf
+OUTPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.pdf
 INPUT .\img\ejemplo_clasePunto.png
 INPUT .\img\ejemplo_clasePunto.png
 INPUT .\img\ejemplo_clasePunto.png
@@ -915,7 +915,7 @@ INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
-INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Newton\build\main_ejemplo.aux
+INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
