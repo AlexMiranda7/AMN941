@@ -1,5 +1,5 @@
 disp('------------METODO DE NEWTON----------');
-sysm x;
+syms x;
 f=input('Ingrese la funcion;  ');
 x0=input('Ingrese el punto inicial: ');
 tol=input('Ingrese el marge de error 10^-');
@@ -8,7 +8,7 @@ tol=10^-tol;
 df=diff(f);
 %Evaluamos la funcion inicial y su derivada en el punto inicial.
 fa=subs(f,x0);
-fb=sub(df,x0);
+fb=subs(df,x0);
 %Formula para el valor aproximado
 x1=x0-(fa/fb);
 error=abs(x1-x0);
