@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1707883687.59511 "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1707883689.9229 0
+["pdflatex"] 1708056327.95896 "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1708056330.42322 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707876763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1708056229 11548 5c59f886f71097393c3ea9217bf499ce ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
+  "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1233951848 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -48,6 +50,7 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
+  "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty" 1576433638 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -211,13 +214,15 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/main_ejemplo.aux" 1707883689 447 8521c0b8555a34242e165f716a500cd8 "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" 1707883686 5681 65acdc30985a071e5655e75b90bb173f ""
+  "build/main_ejemplo.aux" 1708056330 447 aafdfeea645047b3eb7778c1e1d848a0 "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" 1708056327 7052 fbc7cce79096f1b46951e2effa833626 ""
   "img/ejemplo3.png" 1707872367 16795 84f5bcd489075de0927db6c23a070725 ""
   "img/ejemplo_clasePunto.png" 1707876496 3391 9f8164a0487d763410dc3fb38c57a038 ""
   "img/ejemplo_clasePunto_2.png" 1707877515 3444 f163b116020b53a1bc658d2b25df5297 ""
   "img/ejemplo_clasePunto_3.png" 1707878192 32342 729ab3ae31a3e5888c50c0b04c1e987a ""
-  "main_ejemplo.tex" 1707883686 5681 65acdc30985a071e5655e75b90bb173f ""
+  "img/secante1.png" 1708054754 67848 8f8aa5ec2d3dc53b932a14eec7abec23 ""
+  "img/secante2.png" 1708055935 22337 23b805ea75adc6a04c2cc07ec87d0810 ""
+  "main_ejemplo.tex" 1708056327 7052 fbc7cce79096f1b46951e2effa833626 ""
   (generated)
   "build/main_ejemplo.aux"
   "build/main_ejemplo.log"

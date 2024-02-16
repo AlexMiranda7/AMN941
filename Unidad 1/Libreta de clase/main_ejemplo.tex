@@ -116,7 +116,34 @@
     \textbf{Nota:} Cuando estemos trabajando ejercicios, es importante analizar la grafica. Dado que no podemo modificar la ecuacion como en el metodo de punto fijo, debemos elegir correctamente nuestro valor inicia,
     para esto, debemos alegarnos de: Puntos de infleccion, maximos y minimos relativos y extremos, en estas partes no nos funcionara este metodo.
     Ademas, si la primera derivada de la ecuacion es 0, no nos funcionara este metodo.
-
+\pagebreak
 \section*{Metodo de la Secante}
 La diferencia principal de este metodo es que necesitamos de dos valores iniciales x0 y x1, este nos formara dos puntos.
+\\ \textbf{Ejemplo:} Se construye una caja sin tapadera a partir de una hoja metalica rectangular que mide 150 por 115 centimentros. Cual debe ser el lad de los cuadrados que hay que recortar en cada esquina para que
+el volumen de la caja se de 50,601. 6875 centimentros cubicos? Precision de $10^{12}$. Emplee el metodo de la posicion falsa. Use 15 decimales.
+
+\begin{figure}[ht]
+    \includegraphics*[scale=1]{img/secante1.png}
+\end{figure}
+
+\noindent $\mathbb{V} = 50,601.6875$
+\\$\mathbb{V} = l.h.a$
+\\$\mathbb{V} = (150-2x).(115.2x)$
+\\$50,601.6875 = (150-2x).(115-2x).x$
+
+\noindent \textbf{Nota: }\\Metodo de posicion falsa requiere un $f(x)=0$
+\\ $f(x)=(150-2x).(115-2x).x-50,601.6875=0$
+
+\begin{figure}[ht]
+    \includegraphics*[scale=0.5]{img/secante2.png}
+\end{figure}
+Observando la grafica en geogebra, identificamos que la funcion tiene 3 raices. Para saber cual de ellas nos puede servir, debemos ocupar la logica.
+\begin{itemize}
+    \item ¿Hace sentido una pestaña de altura entre 3 y 4 cm? Si, hace sentido.
+    \item ¿Hace sentido una pestaña entre 45 y 50 cm? Quedaria alta, pero aun asi hace sentido, debemos probar.
+    \item ¿Hace sentido una pestaña de mas de 80 cm? La verdad es que no, no nos daria el volumen con pestañas tan altas.
+\end{itemize}
+
+Para la primera raiz utilizaremos el intervalo [3,4]
+
 \end{document}

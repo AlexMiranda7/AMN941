@@ -915,7 +915,24 @@ INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
 INPUT .\img\ejemplo3.png
+INPUT .\img\secante1.png
+INPUT .\img\secante1.png
+INPUT img\secante1.png
+INPUT .\img\secante1.png
+INPUT .\img\secante1.png
+INPUT .\img\secante1.png
+INPUT .\img\secante1.png
+INPUT .\img\secante2.png
+INPUT .\img\secante2.png
+INPUT img\secante2.png
+INPUT .\img\secante2.png
+INPUT .\img\secante2.png
+INPUT .\img\secante2.png
+INPUT .\img\secante2.png
+INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux
+INPUT C:\Users\Alexander\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Alexander\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -938,3 +955,5 @@ INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\Alexander\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
