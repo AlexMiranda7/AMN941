@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  21 FEB 2024 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  21 FEB 2024 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex
-(c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex
+**c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio34.tex
+(c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio34.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -613,23 +613,23 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 \c@theorem=\count328
 \c@definition=\count329
 \c@problem=\count330
- (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.aux)
-\openout1 = `Ejercicio28.aux'.
+ (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio34.aux)
+\openout1 = `Ejercicio34.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -688,65 +688,19 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
-(C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
- (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: No \author given.
-
-<img/stf28_1.png, id=4, 520.19344pt x 196.48407pt>
-File: img/stf28_1.png Graphic file (type png)
-<use img/stf28_1.png>
-Package pdftex.def Info: img/stf28_1.png  used on input line 63.
-(pdftex.def)             Requested size: 468.16975pt x 176.83401pt.
-
-Overfull \hbox (49.91608pt too wide) in paragraph at lines 63--64
-[][] 
- []
-
-<img/stf28_2.png, id=6, 425.33907pt x 371.88937pt>
-File: img/stf28_2.png Graphic file (type png)
-<use img/stf28_2.png>
-Package pdftex.def Info: img/stf28_2.png  used on input line 81.
-(pdftex.def)             Requested size: 212.669pt x 185.94423pt.
-[1
-Non-PDF special ignored!
-<special> header=psfrag.pro
-
-{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/stf28_1.png>]
-<img/stf28_3.png, id=19, 423.08063pt x 382.42876pt>
-File: img/stf28_3.png Graphic file (type png)
-<use img/stf28_3.png>
-Package pdftex.def Info: img/stf28_3.png  used on input line 90.
-(pdftex.def)             Requested size: 211.5398pt x 191.2139pt.
-<img/stf28_6.png, id=20, 423.83344pt x 381.67593pt>
-File: img/stf28_6.png Graphic file (type png)
-<use img/stf28_6.png>
-Package pdftex.def Info: img/stf28_6.png  used on input line 101.
-(pdftex.def)             Requested size: 296.68137pt x 267.17133pt.
-<img/stf28_7.png, id=21, 657.2053pt x 158.09062pt>
-File: img/stf28_7.png Graphic file (type png)
-<use img/stf28_7.png>
-Package pdftex.def Info: img/stf28_7.png  used on input line 102.
-(pdftex.def)             Requested size: 394.32622pt x 94.85509pt.
- [2 <./img/stf28_2.png> <./img/stf28_3.png>] [3 <./img/stf28_6.png> <./img/stf28_7.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.aux) ) 
+(c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio34.aux) ) 
 Here is how much of TeX's memory you used:
- 28796 strings out of 476331
- 741446 string characters out of 5785878
- 1856660 words of memory out of 5000000
- 48733 multiletter control sequences out of 15000+600000
- 524456 words of font info for 77 fonts, out of 8000000 for 9000
+ 28665 strings out of 476331
+ 739534 string characters out of 5785878
+ 1850660 words of memory out of 5000000
+ 48648 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,771b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.pdf (3 pages, 221670 bytes).
+ 99i,1n,103p,771b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 3 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
