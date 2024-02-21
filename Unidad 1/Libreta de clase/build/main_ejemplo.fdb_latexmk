@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1708056327.95896 "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1708056330.42322 0
+["pdflatex"] 1708474101.57235 "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" "build/main_ejemplo.pdf" "main_ejemplo" 1708474103.9496 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707876763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1708056229 11548 5c59f886f71097393c3ea9217bf499ce ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
@@ -214,15 +214,15 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/main_ejemplo.aux" 1708056330 447 aafdfeea645047b3eb7778c1e1d848a0 "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" 1708056327 7052 fbc7cce79096f1b46951e2effa833626 ""
+  "build/main_ejemplo.aux" 1708474103 447 0199f70b63fcec29246e4cacb14267e2 "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex" 1708474100 7583 84de6517a8b8ba07bd78443b04a94c08 ""
   "img/ejemplo3.png" 1707872367 16795 84f5bcd489075de0927db6c23a070725 ""
   "img/ejemplo_clasePunto.png" 1707876496 3391 9f8164a0487d763410dc3fb38c57a038 ""
   "img/ejemplo_clasePunto_2.png" 1707877515 3444 f163b116020b53a1bc658d2b25df5297 ""
   "img/ejemplo_clasePunto_3.png" 1707878192 32342 729ab3ae31a3e5888c50c0b04c1e987a ""
   "img/secante1.png" 1708054754 67848 8f8aa5ec2d3dc53b932a14eec7abec23 ""
   "img/secante2.png" 1708055935 22337 23b805ea75adc6a04c2cc07ec87d0810 ""
-  "main_ejemplo.tex" 1708056327 7052 fbc7cce79096f1b46951e2effa833626 ""
+  "main_ejemplo.tex" 1708474100 7583 84de6517a8b8ba07bd78443b04a94c08 ""
   (generated)
   "build/main_ejemplo.aux"
   "build/main_ejemplo.log"
