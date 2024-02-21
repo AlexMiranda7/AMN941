@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  21 FEB 2024 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  21 FEB 2024 02:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex"
-(c:/Users/Alexander/Documents/GitHub/AMN941/Unidad 1/Libreta de clase/main_ejemplo.tex
+**c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex
+(c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -613,8 +613,8 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 \c@theorem=\count328
 \c@definition=\count329
 \c@problem=\count330
- (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux)
-\openout1 = `main_ejemplo.aux'.
+ (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex)) (c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.aux)
+\openout1 = `Ejercicio28.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
@@ -696,210 +696,49 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
  (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img/ejemplo_clasePunto.png, id=4, 207.77625pt x 115.18031pt>
-File: img/ejemplo_clasePunto.png Graphic file (type png)
-<use img/ejemplo_clasePunto.png>
-Package pdftex.def Info: img/ejemplo_clasePunto.png  used on input line 85.
-(pdftex.def)             Requested size: 207.77573pt x 115.18001pt.
- [1
+<img/stf28_1.png, id=4, 520.19344pt x 196.48407pt>
+File: img/stf28_1.png Graphic file (type png)
+<use img/stf28_1.png>
+Package pdftex.def Info: img/stf28_1.png  used on input line 64.
+(pdftex.def)             Requested size: 468.16975pt x 176.83401pt.
+
+Overfull \hbox (49.91608pt too wide) in paragraph at lines 64--65
+[][] 
+ []
+
+<img/stf28_2.png, id=6, 425.33907pt x 371.88937pt>
+File: img/stf28_2.png Graphic file (type png)
+<use img/stf28_2.png>
+Package pdftex.def Info: img/stf28_2.png  used on input line 82.
+(pdftex.def)             Requested size: 212.669pt x 185.94423pt.
+[1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/ejemplo_clasePunto.png>]
-<img/ejemplo_clasePunto_2.png, id=20, 182.18062pt x 102.3825pt>
-File: img/ejemplo_clasePunto_2.png Graphic file (type png)
-<use img/ejemplo_clasePunto_2.png>
-Package pdftex.def Info: img/ejemplo_clasePunto_2.png  used on input line 93.
-(pdftex.def)             Requested size: 163.96103pt x 92.14339pt.
-<img/ejemplo_clasePunto_3.png, id=22, 502.12593pt x 317.68687pt>
-File: img/ejemplo_clasePunto_3.png Graphic file (type png)
-<use img/ejemplo_clasePunto_3.png>
-Package pdftex.def Info: img/ejemplo_clasePunto_3.png  used on input line 100.
-(pdftex.def)             Requested size: 401.7013pt x 254.14983pt.
- [2 <./img/ejemplo_clasePunto_3.png> <./img/ejemplo_clasePunto_2.png>]
-<img/ejemplo3.png, id=31, 456.20438pt x 237.13594pt>
-File: img/ejemplo3.png Graphic file (type png)
-<use img/ejemplo3.png>
-Package pdftex.def Info: img/ejemplo3.png  used on input line 113.
-(pdftex.def)             Requested size: 410.58012pt x 213.42035pt.
- [3 <./img/ejemplo3.png>]
-<img/secante0.png, id=38, 402.75468pt x 285.31593pt>
-File: img/secante0.png Graphic file (type png)
-<use img/secante0.png>
-Package pdftex.def Info: img/secante0.png  used on input line 127.
-(pdftex.def)             Requested size: 362.47586pt x 256.78195pt.
-<img/secante01.png, id=40, 740.7675pt x 303.38344pt>
-File: img/secante01.png Graphic file (type png)
-<use img/secante01.png>
-Package pdftex.def Info: img/secante01.png  used on input line 140.
-(pdftex.def)             Requested size: 407.42339pt x 166.8614pt.
- [4 <./img/secante0.png>]
-<img/secante02.png, id=48, 280.04625pt x 16.56187pt>
-File: img/secante02.png Graphic file (type png)
-<use img/secante02.png>
-Package pdftex.def Info: img/secante02.png  used on input line 146.
-(pdftex.def)             Requested size: 196.03102pt x 11.59322pt.
-<img/secante03.png, id=50, 594.72188pt x 231.11343pt>
-File: img/secante03.png Graphic file (type png)
-<use img/secante03.png>
-Package pdftex.def Info: img/secante03.png  used on input line 147.
-(pdftex.def)             Requested size: 475.77815pt x 184.89099pt.
-
-Overfull \hbox (57.52448pt too wide) in paragraph at lines 146--148
-[] 
- []
-
-<img/secante04.png, id=52, 599.23875pt x 234.8775pt>
-File: img/secante04.png Graphic file (type png)
-<use img/secante04.png>
-Package pdftex.def Info: img/secante04.png  used on input line 152.
-(pdftex.def)             Requested size: 419.46426pt x 164.41312pt.
-
-Overfull \hbox (1.21059pt too wide) in paragraph at lines 152--153
-[][] 
- []
-
-[5 <./img/secante01.png> <./img/secante02.png> <./img/secante03.png>]
-<img/ej20_secante.png, id=63, 509.65407pt x 251.43938pt>
-File: img/ej20_secante.png Graphic file (type png)
-<use img/ej20_secante.png>
-Package pdftex.def Info: img/ej20_secante.png  used on input line 158.
-(pdftex.def)             Requested size: 458.68442pt x 226.29333pt.
-
-Overfull \hbox (40.43074pt too wide) in paragraph at lines 158--159
-[][] 
- []
-
-[6 <./img/secante04.png> <./img/ej20_secante.png>]
-<img/secante05.png, id=74, 341.77687pt x 156.585pt>
-File: img/secante05.png Graphic file (type png)
-<use img/secante05.png>
-Package pdftex.def Info: img/secante05.png  used on input line 182.
-(pdftex.def)             Requested size: 239.24217pt x 109.60873pt.
-<img/secante06.png, id=76, 609.77812pt x 495.35063pt>
-File: img/secante06.png Graphic file (type png)
-<use img/secante06.png>
-Package pdftex.def Info: img/secante06.png  used on input line 183.
-(pdftex.def)             Requested size: 426.84177pt x 346.74307pt.
-
-Overfull \hbox (8.58809pt too wide) in paragraph at lines 182--184
-[] 
- []
-
-<img/secante07.png, id=78, 645.16031pt x 228.855pt>
-File: img/secante07.png Graphic file (type png)
-<use img/secante07.png>
-Package pdftex.def Info: img/secante07.png  used on input line 187.
-(pdftex.def)             Requested size: 451.60913pt x 160.1974pt.
-
-Overfull \hbox (33.35545pt too wide) in paragraph at lines 187--188
-[][] 
- []
-
-<img/secante08.png, id=80, 313.17pt x 104.64093pt>
-File: img/secante08.png Graphic file (type png)
-<use img/secante08.png>
-Package pdftex.def Info: img/secante08.png  used on input line 191.
-(pdftex.def)             Requested size: 313.16922pt x 104.64066pt.
-[7 <./img/secante05.png> <./img/secante06.png>]
-<img/secante09.png, id=90, 437.38406pt x 391.4625pt>
-File: img/secante09.png Graphic file (type png)
-<use img/secante09.png>
-Package pdftex.def Info: img/secante09.png  used on input line 198.
-(pdftex.def)             Requested size: 218.69148pt x 195.73076pt.
-<img/secante10.png, id=92, 622.57594pt x 208.52907pt>
-File: img/secante10.png Graphic file (type png)
-<use img/secante10.png>
-Package pdftex.def Info: img/secante10.png  used on input line 203.
-(pdftex.def)             Requested size: 435.80019pt x 145.96935pt.
-
-Overfull \hbox (17.54651pt too wide) in paragraph at lines 203--204
-[][] 
- []
-
-[8 <./img/secante07.png> <./img/secante08.png>]
-<img/secante11.png, id=101, 322.20375pt x 109.1578pt>
-File: img/secante11.png Graphic file (type png)
-<use img/secante11.png>
-Package pdftex.def Info: img/secante11.png  used on input line 211.
-(pdftex.def)             Requested size: 193.32373pt x 65.49518pt.
- [9 <./img/secante09.png> <./img/secante10.png> <./img/secante11.png>]
-<img/secante1.png, id=112, 359.09157pt x 188.20313pt>
-File: img/secante1.png Graphic file (type png)
-<use img/secante1.png>
-Package pdftex.def Info: img/secante1.png  used on input line 220.
-(pdftex.def)             Requested size: 359.09068pt x 188.20265pt.
-<img/secante2.png, id=114, 991.45406pt x 240.14719pt>
-File: img/secante2.png Graphic file (type png)
-<use img/secante2.png>
-Package pdftex.def Info: img/secante2.png  used on input line 232.
-(pdftex.def)             Requested size: 495.72581pt x 120.07329pt.
-
-Overfull \hbox (77.47214pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-[10 <./img/secante1.png> <./img/secante2.png>] [11]
-<img/stf1.png, id=128, 868.74562pt x 301.125pt>
-File: img/stf1.png Graphic file (type png)
-<use img/stf1.png>
-Package pdftex.def Info: img/stf1.png  used on input line 246.
-(pdftex.def)             Requested size: 434.37175pt x 150.56212pt.
-
-Overfull \hbox (16.11807pt too wide) in paragraph at lines 246--247
-[][] 
- []
-
-<img/stf2.png, id=129, 303.38344pt x 53.44969pt>
-File: img/stf2.png Graphic file (type png)
-<use img/stf2.png>
-Package pdftex.def Info: img/stf2.png  used on input line 252.
-(pdftex.def)             Requested size: 212.36694pt x 37.4145pt.
-<img/stf3.png, id=130, 426.09187pt x 382.42876pt>
-File: img/stf3.png Graphic file (type png)
-<use img/stf3.png>
-Package pdftex.def Info: img/stf3.png  used on input line 253.
-(pdftex.def)             Requested size: 255.65709pt x 229.45901pt.
-<img/stf4.png, id=131, 456.20438pt x 399.74344pt>
-File: img/stf4.png Graphic file (type png)
-<use img/stf4.png>
-Package pdftex.def Info: img/stf4.png  used on input line 262.
-(pdftex.def)             Requested size: 319.34087pt x 279.81848pt.
-[12 <./img/stf1.png> <./img/stf2.png> <./img/stf3.png>]
-<img/stf5.png, id=138, 426.09187pt x 381.67593pt>
-File: img/stf5.png Graphic file (type png)
-<use img/stf5.png>
-Package pdftex.def Info: img/stf5.png  used on input line 272.
-(pdftex.def)             Requested size: 340.87395pt x 305.34116pt.
-<img/stf6.png, id=139, 432.11438pt x 389.20406pt>
-File: img/stf6.png Graphic file (type png)
-<use img/stf6.png>
-Package pdftex.def Info: img/stf6.png  used on input line 277.
-(pdftex.def)             Requested size: 345.69196pt x 311.36366pt.
- [13 <./img/stf4.png>]
-<img/stf7.png, id=145, 612.78937pt x 182.93344pt>
-File: img/stf7.png Graphic file (type png)
-<use img/stf7.png>
-Package pdftex.def Info: img/stf7.png  used on input line 282.
-(pdftex.def)             Requested size: 428.94963pt x 128.05252pt.
-
-Overfull \hbox (10.69595pt too wide) in paragraph at lines 282--283
-[][] 
- []
-
-[14 <./img/stf5.png>] [15 <./img/stf6.png> <./img/stf7.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux) ) 
+{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/stf28_1.png>]
+<img/stf28_3.png, id=19, 423.08063pt x 382.42876pt>
+File: img/stf28_3.png Graphic file (type png)
+<use img/stf28_3.png>
+Package pdftex.def Info: img/stf28_3.png  used on input line 91.
+(pdftex.def)             Requested size: 211.5398pt x 191.2139pt.
+<img/stf28_4.png, id=20, 422.32782pt x 382.42876pt>
+File: img/stf28_4.png Graphic file (type png)
+<use img/stf28_4.png>
+Package pdftex.def Info: img/stf28_4.png  used on input line 101.
+(pdftex.def)             Requested size: 232.281pt x 210.33646pt.
+ [2 <./img/stf28_2.png> <./img/stf28_3.png>] [3 <./img/stf28_4.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.aux) ) 
 Here is how much of TeX's memory you used:
- 28952 strings out of 476331
- 744887 string characters out of 5785878
- 1857660 words of memory out of 5000000
- 48867 multiletter control sequences out of 15000+600000
- 525396 words of font info for 80 fonts, out of 8000000 for 9000
+ 28789 strings out of 476331
+ 741314 string characters out of 5785878
+ 1856660 words of memory out of 5000000
+ 48727 multiletter control sequences out of 15000+600000
+ 524456 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,794b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Alexander\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.pdf" (15 pages, 1014502 bytes).
+ 99i,8n,103p,771b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on c:\Users\Alexander\Documents\GitHub\AMN941\Guia1\build\Ejercicio28.pdf (3 pages, 212508 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

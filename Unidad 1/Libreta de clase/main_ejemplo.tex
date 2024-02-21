@@ -239,5 +239,48 @@ Observando la grafica en geogebra, identificamos que la funcion tiene 3 raices. 
 \end{itemize}
 
 Para la primera raiz utilizaremos el intervalo [3,4]
+\pagebreak
+\section*{Metodo de Steffensen}
+\subsection*{Ejemplo 1}
+\begin{figure}[ht]
+    \includegraphics[scale=0.5]{img/stf1.png}
+\end{figure}
+Iniciamos trabajando la funcion F(x) = 0, para poder graficar y obtener el intervalo que ocuparemos.
+
+$f(x)=(r^2\arccos(\frac{r-h}{r})-(r-h)(2rh-h^2)^0.5)l-v=0$
+\begin{figure}[ht]
+    \includegraphics[scale=0.7]{img/stf2.png}
+    \\ \includegraphics[scale=0.6]{img/stf3.png}{\\Podemo elegir un punto inicial x=1 o el intervalo [1,2]}
+\end{figure}
+\\Para continuar, el metodo de Steffensen nos pide encontrar g(x)=x, por lo tanto despejamos en nuestra ecuacion:
+$x=(r^2\arccos(\frac{r-h}{r})-(r-h)(2rh-h^2)^0.5)l-v+x\\
+g(x)=(r^2\arccos(\frac{r-h}{r})-(r-h)(2rh-h^2)^0.5)l-v+x
+$
+
+Probemos si este despeje nos funciona, vamos a Matlab: $g=(r^2*acos((r-x)/r)-(r-x)*sqrt(2*r*x-x^2))*l-v+x$
+\begin{figure}[ht]
+    \includegraphics[scale=0.7]{img/stf4.png}{\\Debemos observar detenidamente el grafico, para cumplir el metodo \textbf{los valores en x Y y deben ser iguales}, sin embargo, vemos que para un x=1,y=-10; por lo tanto se separan y por mucho}
+    \end{figure}
+
+Debemos corregirlo, y para ello debemos hacer otro despeje. Esta vez intentaremos multiplicando X a ambos lados de la expresion, por lo tanto:
+$g(x)=\frac{(r^2acos((r-x)/r)-(r-x)\sqrt{2rx-x^2})lx}{v}$
+
+En matlab:$g=(r^2*acos((r-x)/r)-(r-x)*sqrt(2*r*x-x^2))*l*x/v$
+\\Observemos la grafica ahora 
+\pagebreak
+\begin{figure}[ht]
+    \includegraphics[scale=0.8]{img/stf5.png}{\\Los valores siguen separados, pero esta vez por menos, si observamos para un x=1, y=0.5; por lo tanto podria funcionar.}
+\end{figure}
+\\Sin embargo, debemos buscar un mejor valor inicial [1,2] ya no nos sirve. Revisemos nuevamente el grafico de la funcion f(x)=0 para
+encontrar un mejor intervalo.Para ello, la graficamos exactamene en ese intervalo que ahora estamos descartando.
+\begin{figure}[ht]
+    \includegraphics[scale=0.8]{img/stf6.png}{\\Con un valor de x=1.6 podria converger rapidamente. Recordemos, buscamos el punto donde corta el eje x}
+\end{figure}
+
+El resultado es el siguiente:
+\begin{figure}[ht]
+    \includegraphics[scale=0.7]{img/stf7.png}{\\La profundidad del liquido es: h=1.637010754388397}
+\end{figure}
+
 
 \end{document}
