@@ -118,10 +118,99 @@
     Ademas, si la primera derivada de la ecuacion es 0, no nos funcionara este metodo.
 \pagebreak
 \section*{Metodo de la Secante}
-La diferencia principal de este metodo es que necesitamos de dos valores iniciales x0 y x1, este nos formara dos puntos.
-\textbf{Ejemplo:}Se tienen dos postes, uno de 29 pies de altura y otro de 41 pies de altura, los  cuales están separados entre si 47 pies. Los postes se sostienen mediante dos cables, conectados a una sola
+La diferencia principal de este metodo es que necesitamos de dos valores iniciales x0 y x1, este nos formara dos puntos.  \textbf{Secante exige que la ecuacion
+este de la forma f(x)=0}
+\subsection*{Ejemplo 1} Se tienen dos postes, uno de 29 pies de altura y otro de 41 pies de altura, los  cuales están separados entre si 47 pies. Los postes se sostienen mediante dos cables, conectados a una sola
 estaca entre ellos, desde el nivel del suelo hasta la parte superior de cada poste. Emplee el metodo de la secante para determinar donde debe colocarse la estaca, para que la cantidad de cable utilizado sea de 85 pies.
 Use una precisión de $10^-12$. Emplee 15 decimales.
+\begin{figure}[ht]
+    \includegraphics*[scale=0.9]{img/secante0.png}
+\end{figure}
+\noindent \\¿De donde vienen estas raices? Bueno, si aplicamos pitagoras de acuerdo a la información que tenemos gracias al ejercicio (marcadas en azul en la imagen), podemos obtener cada uno de los catetos o hipotenusas
+que representan los otros lados de los triangulos.
+
+\noindent \\ Sabemos que la suma del todal del cable utilizado debe ser 85, y conocemos la ecuacion gracias a pitagoras que me permite plantear cuando deberian valer esos segmentos de cable.
+Por tanto, podemos plantear esa ecuacion de la siguiente forma
+
+\noindent \\ $\sqrt[]{29^2+(47-x)^2}+\sqrt[]{x^2+41^2}=85$
+\\$f(x)=\sqrt[]{29^2+(47-x)^2}+\sqrt[]{x^2+41^2}-85$
+\pagebreak
+\noindent Grafiquemos para entender
+\begin{figure}[ht]
+    \includegraphics*[scale=0.55]{img/secante01.png}
+\end{figure}
+
+\noindent \\ Como observamos, es una ecuacion cuadratica que corta en dos puntos al eje X.
+\\Vamos a operar en matlab eligiendo dos puntos cercanos a la primera raiz, en este caso usaremos: [20,22]
+\begin{figure}[ht]
+    \includegraphics*[scale=0.7]{img/secante02.png}
+    \\ \includegraphics*[scale=0.8]{img/secante03.png}
+\end{figure}
+\noindent \\El resultado de la primera raiz es de 21.065779178000248
+\\Ahora trabajaremos con  la otra raiz, para eso utilizarmemos los puntos [33,34]
+\begin{figure}[ht]
+    \includegraphics*[scale=0.7]{img/secante04.png}
+\end{figure}
+
+\pagebreak
+\subsection*{Ejemplo 2}
+\begin{figure}[ht]
+    \includegraphics*[scale=0.9]{img/ej20_secante.png}
+\end{figure}
+\subsection*{Calculando tiempo en el que llega a su altura maxima}Iniciemos determinando su altura maxima.
+
+\noindent $\mathbf{V}y(t) = 0$\indent   En su punto mas alto
+\\Hace falta recordar que: La ecuacion de velocidad, la podemos obtener encontrando la derivada de le ecuacion de la posicion vertical.
+\\Tal que: $\mathbf{V}y(t)=\partial y(t)=(CVy = 9.8C^2)(\frac{e^\frac{-t}{c}}{c})-9.8C$
+
+$f(x)=(CVy + 9.8C^2)(\frac{e^\frac{-t}{c}}{c})-9.8C=0$
+
+\noindent \\Declaremos las variables en Matlab:
+
+$
+ang=57.82\\
+v0=3925\\
+m=159.09\\
+k=9.5\\ 
+vx=v0*cosd(57.82)\\ 
+vy=v0*sind(ang)\\
+c=\frac{m}{k}
+$
+
+\noindent Ahora, debemos identificar el intervalo donde esta la raiz, por lo que procedemos a graficar la funcion en Matlab
+\begin{figure}[ht]
+    \includegraphics*[scale=0.7]{img/secante05.png}
+    \\ \includegraphics*[scale=0.7]{img/secante06.png}
+\end{figure}
+\noindent \\ Observando, notamos que el intervalo de la raiz, donde el eje x corta la funcion, es entre 51 y 52. Usamos el metodo en Matlab
+\begin{figure}[ht]
+    \includegraphics*[scale=0.7]{img/secante07.png}
+\end{figure}
+\\Ahora conocemos el tiempo en el que llega a su altura maxima, que es de: 51.176626309310990. Encontremos su altura maxima:
+\begin{figure}[ht]
+    \includegraphics*[scale=1]{img/secante08.png}
+\end{figure}
+
+\subsection*{Calculando el tiempo que tarda en llegar al suelo}
+Para determinar el tiempo que tarda en llegar al suelo, podemos partir de: Cuando el objeto toca el suelo $h_m=0$ y $v=0$ 
+\\Por tanto: $g(x)=(c*vy+9.8*c^2)*(1-exp(-x/c))-9.8*c*x=0$. Un tiempo 0 no haria sentido, tampoco uno negativo, por lo que debemos graficar la funcion en valores separados para encontrar su raiz, tal que:
+\begin{figure}[ht]
+    \includegraphics*[scale=0.5]{img/secante09.png}
+\end{figure}
+
+Obseravamos que la raiz se encuentra entre 350 y 360. Procedemos a ejcutar secante. 
+\begin{figure}[ht]
+    \includegraphics*[scale=0.7]{img/secante10.png}{\\ Encontramos el tiempo que se tarda en tocar el suelo $t=355.729791053669490$}
+\end{figure}
+
+\pagebreak
+\subsection*{Encontrando el alcance horizontal}
+Cnocemos el tiempo que se tarda en caer nuevamente el objeto, por lo tanto, sustituyendo este tiempo en la funcion de desplazamiento en X podemos 
+encontrar el alcance horizontal.
+\begin{figure}[ht]
+    \includegraphics*[scale=0.6]{img/secante11.png}
+\end{figure}
+
 \pagebreak
 \section*{Metodo de la posicion falsa}
 \textbf{Ejemplo:} Se construye una caja sin tapadera a partir de una hoja metalica rectangular que mide 150 por 115 centimentros. Cual debe ser el lad de los cuadrados que hay que recortar en cada esquina para que
@@ -136,7 +225,7 @@ el volumen de la caja se de 50,601. 6875 centimentros cubicos? Precision de $10^
 \\$\mathbb{V} = (150-2x).(115.2x)$
 \\$50,601.6875 = (150-2x).(115-2x).x$
 
-\noindent \textbf{Nota: }\\Metodo de posicion falsa requiere un $f(x)=0$
+\textbf{Nota: }\\Metodo de posicion falsa requiere un $f(x)=0$
 \\ $f(x)=(150-2x).(115-2x).x-50,601.6875=0$
 
 \begin{figure}[ht]

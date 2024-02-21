@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  20 FEB 2024 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  20 FEB 2024 22:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -722,35 +722,136 @@ File: img/ejemplo3.png Graphic file (type png)
 <use img/ejemplo3.png>
 Package pdftex.def Info: img/ejemplo3.png  used on input line 113.
 (pdftex.def)             Requested size: 410.58012pt x 213.42035pt.
- [3 <./img/ejemplo3.png>] [4]
-<img/secante1.png, id=41, 359.09157pt x 188.20313pt>
-File: img/secante1.png Graphic file (type png)
-<use img/secante1.png>
-Package pdftex.def Info: img/secante1.png  used on input line 131.
-(pdftex.def)             Requested size: 359.09068pt x 188.20265pt.
-<img/secante2.png, id=43, 991.45406pt x 240.14719pt>
-File: img/secante2.png Graphic file (type png)
-<use img/secante2.png>
-Package pdftex.def Info: img/secante2.png  used on input line 143.
-(pdftex.def)             Requested size: 495.72581pt x 120.07329pt.
+ [3 <./img/ejemplo3.png>]
+<img/secante0.png, id=38, 402.75468pt x 285.31593pt>
+File: img/secante0.png Graphic file (type png)
+<use img/secante0.png>
+Package pdftex.def Info: img/secante0.png  used on input line 127.
+(pdftex.def)             Requested size: 362.47586pt x 256.78195pt.
+<img/secante01.png, id=40, 740.7675pt x 303.38344pt>
+File: img/secante01.png Graphic file (type png)
+<use img/secante01.png>
+Package pdftex.def Info: img/secante01.png  used on input line 140.
+(pdftex.def)             Requested size: 407.42339pt x 166.8614pt.
+ [4 <./img/secante0.png>]
+<img/secante02.png, id=48, 280.04625pt x 16.56187pt>
+File: img/secante02.png Graphic file (type png)
+<use img/secante02.png>
+Package pdftex.def Info: img/secante02.png  used on input line 146.
+(pdftex.def)             Requested size: 196.03102pt x 11.59322pt.
+<img/secante03.png, id=50, 594.72188pt x 231.11343pt>
+File: img/secante03.png Graphic file (type png)
+<use img/secante03.png>
+Package pdftex.def Info: img/secante03.png  used on input line 147.
+(pdftex.def)             Requested size: 475.77815pt x 184.89099pt.
 
-Overfull \hbox (77.47214pt too wide) in paragraph at lines 143--144
+Overfull \hbox (57.52448pt too wide) in paragraph at lines 146--148
+[] 
+ []
+
+<img/secante04.png, id=52, 599.23875pt x 234.8775pt>
+File: img/secante04.png Graphic file (type png)
+<use img/secante04.png>
+Package pdftex.def Info: img/secante04.png  used on input line 152.
+(pdftex.def)             Requested size: 419.46426pt x 164.41312pt.
+
+Overfull \hbox (1.21059pt too wide) in paragraph at lines 152--153
 [][] 
  []
 
-[5 <./img/secante1.png> <./img/secante2.png>] [6] (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux) ) 
+[5 <./img/secante01.png> <./img/secante02.png> <./img/secante03.png>]
+<img/ej20_secante.png, id=63, 509.65407pt x 251.43938pt>
+File: img/ej20_secante.png Graphic file (type png)
+<use img/ej20_secante.png>
+Package pdftex.def Info: img/ej20_secante.png  used on input line 158.
+(pdftex.def)             Requested size: 458.68442pt x 226.29333pt.
+
+Overfull \hbox (40.43074pt too wide) in paragraph at lines 158--159
+[][] 
+ []
+
+[6 <./img/secante04.png> <./img/ej20_secante.png>]
+<img/secante05.png, id=74, 341.77687pt x 156.585pt>
+File: img/secante05.png Graphic file (type png)
+<use img/secante05.png>
+Package pdftex.def Info: img/secante05.png  used on input line 182.
+(pdftex.def)             Requested size: 239.24217pt x 109.60873pt.
+<img/secante06.png, id=76, 609.77812pt x 495.35063pt>
+File: img/secante06.png Graphic file (type png)
+<use img/secante06.png>
+Package pdftex.def Info: img/secante06.png  used on input line 183.
+(pdftex.def)             Requested size: 426.84177pt x 346.74307pt.
+
+Overfull \hbox (8.58809pt too wide) in paragraph at lines 182--184
+[] 
+ []
+
+<img/secante07.png, id=78, 645.16031pt x 228.855pt>
+File: img/secante07.png Graphic file (type png)
+<use img/secante07.png>
+Package pdftex.def Info: img/secante07.png  used on input line 187.
+(pdftex.def)             Requested size: 451.60913pt x 160.1974pt.
+
+Overfull \hbox (33.35545pt too wide) in paragraph at lines 187--188
+[][] 
+ []
+
+<img/secante08.png, id=80, 313.17pt x 104.64093pt>
+File: img/secante08.png Graphic file (type png)
+<use img/secante08.png>
+Package pdftex.def Info: img/secante08.png  used on input line 191.
+(pdftex.def)             Requested size: 313.16922pt x 104.64066pt.
+[7 <./img/secante05.png> <./img/secante06.png>]
+<img/secante09.png, id=90, 437.38406pt x 391.4625pt>
+File: img/secante09.png Graphic file (type png)
+<use img/secante09.png>
+Package pdftex.def Info: img/secante09.png  used on input line 198.
+(pdftex.def)             Requested size: 218.69148pt x 195.73076pt.
+<img/secante10.png, id=92, 622.57594pt x 208.52907pt>
+File: img/secante10.png Graphic file (type png)
+<use img/secante10.png>
+Package pdftex.def Info: img/secante10.png  used on input line 203.
+(pdftex.def)             Requested size: 435.80019pt x 145.96935pt.
+
+Overfull \hbox (17.54651pt too wide) in paragraph at lines 203--204
+[][] 
+ []
+
+[8 <./img/secante07.png> <./img/secante08.png>]
+<img/secante11.png, id=101, 322.20375pt x 109.1578pt>
+File: img/secante11.png Graphic file (type png)
+<use img/secante11.png>
+Package pdftex.def Info: img/secante11.png  used on input line 211.
+(pdftex.def)             Requested size: 193.32373pt x 65.49518pt.
+ [9 <./img/secante09.png> <./img/secante10.png> <./img/secante11.png>]
+<img/secante1.png, id=112, 359.09157pt x 188.20313pt>
+File: img/secante1.png Graphic file (type png)
+<use img/secante1.png>
+Package pdftex.def Info: img/secante1.png  used on input line 220.
+(pdftex.def)             Requested size: 359.09068pt x 188.20265pt.
+<img/secante2.png, id=114, 991.45406pt x 240.14719pt>
+File: img/secante2.png Graphic file (type png)
+<use img/secante2.png>
+Package pdftex.def Info: img/secante2.png  used on input line 232.
+(pdftex.def)             Requested size: 495.72581pt x 120.07329pt.
+
+Overfull \hbox (77.47214pt too wide) in paragraph at lines 232--233
+[][] 
+ []
+
+[10 <./img/secante1.png> <./img/secante2.png>] [11] (c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.aux) ) 
 Here is how much of TeX's memory you used:
- 28812 strings out of 476331
- 742198 string characters out of 5785878
+ 28903 strings out of 476331
+ 744110 string characters out of 5785878
  1857660 words of memory out of 5000000
- 48747 multiletter control sequences out of 15000+600000
+ 48825 multiletter control sequences out of 15000+600000
  525396 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,794b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Alexander\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.pdf" (6 pages, 255586 bytes).
+ <C:\Users\Alexander\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Unidad 1\Libreta de clase\build\main_ejemplo.pdf" (11 pages, 761261 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 194 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
