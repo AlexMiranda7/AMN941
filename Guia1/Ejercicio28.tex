@@ -86,7 +86,7 @@
 Para esto, iniciaremos sumando x cada lado de la ecuacion, tal que:
 $g(x)=uln(\frac{mo}{mo-qt})-gt-v+x$
 
-Validemos graficando en matlab: $g=u*log(mo/(mo-q*x))-g*x-v+x$
+Validemos graficando en matlab: $gx=u*log(mo/(mo-q*x))-g*x-v+x$
 \begin{figure}[ht]
     \includegraphics[scale=0.5]{img/stf28_3.png}
     
@@ -94,16 +94,13 @@ Validemos graficando en matlab: $g=u*log(mo/(mo-q*x))-g*x-v+x$
 \\Debemos observar detenidamente el grafico, para cumplir el metodo los valores en x Y y
     deben ser iguales, sin embargo, vemos que para un x=28,y=20; por lo tanto se separan y por
     mucho
-\\Despejaremos ahora nuestra x, multiplicando x a ambos lados de la ecuacion, de manera que: $g(x)=\frac{(uln(\frac{mo}{mo-qt})-gt)x}{v}$
-\\Grafiquemos en matlab como:  $g=(u*log(mo/(mo-q*x))-g*x)*x/v;$
-\pagebreak
+\\Intentaremos ahora despejar x, del factor gx $(gt)$. De manera que:
+
+$x=\frac{uln(\frac{mo}{mo-qt})-v}{g}$
+\\Igresado en matlab: $gx=(u*log(mo/(mo-q*x))-v)/g$. Grafiquemos para comprobar el metodo:
 \begin{figure}[ht]
-    \includegraphics[scale=0.55]{img/stf28_4.png}
+    \includegraphics[scale=0.7]{img/stf28_6.png}{\\El metodo se cumple, podemos proceder a ejecutar el programa en matlab para encontrar la raiz.}
+    \includegraphics[scale=0.6]{img/stf28_7.png}{\\El tiempo que al cohete le toma alcanzar $1025m/s$ es t=28.247531572067317}
 \end{figure}
 
-La diferencia es ahora menor en comparativa, aunque sigue siendo significativa. Despejaremos de otra manera:
-$g(x)=\frac{(uln(\frac{mo}{mo-qt})-v)}{g}$
-\\Grafiquemos en matlab como:  $g=(u*log(mo/(mo-q*x))-g*x)*x/v;$
-
-Observando, podemos utilizar el punto 28.2. Vamos a matlab a usar el metodo de Steffensen.
 \end{document}

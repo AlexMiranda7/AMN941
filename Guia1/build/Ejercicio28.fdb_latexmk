@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1708503980.22027 "c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex" "build/Ejercicio28.pdf" "Ejercicio28" 1708503982.46882 0
+["pdflatex"] 1708555716.44576 "c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex" "build/Ejercicio28.pdf" "Ejercicio28" 1708555718.73957 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707876763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -210,13 +210,14 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "Ejercicio28.tex" 1708503979 4977 6a99df9c9c111c2987827f8b267649ae ""
-  "build/Ejercicio28.aux" 1708503982 67 3705c6601359574168251466ef4fff2b "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex" 1708503979 4977 6a99df9c9c111c2987827f8b267649ae ""
+  "Ejercicio28.tex" 1708555715 4876 516164b0b575cac1d2bd155aca7a5fbd ""
+  "build/Ejercicio28.aux" 1708555718 67 3705c6601359574168251466ef4fff2b "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Guia1/Ejercicio28.tex" 1708555715 4876 516164b0b575cac1d2bd155aca7a5fbd ""
   "img/stf28_1.png" 1708499933 38402 8c4032a82ac1156c29e98f1e3cf9d5e0 ""
   "img/stf28_2.png" 1708502108 28551 4c57a95d4906ea6ec1dee2db7ecbc0df ""
   "img/stf28_3.png" 1708502564 25631 83efc72c62e2a4cff31b8f53022863a1 ""
-  "img/stf28_4.png" 1708503165 27136 8cd831475144414931f9646847c9752a ""
+  "img/stf28_6.png" 1708555217 26655 d8a01e081e8e88fe5a38f81305a69f7b ""
+  "img/stf28_7.png" 1708555606 16012 f564fb8f34e8b4bf3e131f212929c528 ""
   (generated)
   "build/Ejercicio28.aux"
   "build/Ejercicio28.log"
