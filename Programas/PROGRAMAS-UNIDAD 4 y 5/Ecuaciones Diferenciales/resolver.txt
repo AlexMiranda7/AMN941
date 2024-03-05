@@ -1,0 +1,7 @@
+Ambas ecuaciones pasarlas  en anulador escribiendo Dx donde ex x' y Dy donde es y'
+Sacar factor comun x y y respectivamente
+Multiplicar por factores para eliminar x
+Obtener la ecuación Dy= f
+Multiplicar por factores para eliminar y
+Obtener la ecuación Dx= f
+Introducir ambas ecuaciones al programa

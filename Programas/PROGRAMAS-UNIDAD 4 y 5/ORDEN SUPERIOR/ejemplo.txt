@@ -1,0 +1,13 @@
+>> syms U1 U2 U3 t
+>> dU1=U2;
+>> dU2=U3;
+>> dU3=2*U3-U2+2-24*exp(t)+40*exp(5*t);
+>> a=0;
+>> b=1/25;
+>> h=1/100;
+>> orden_superiorRK([dU1, dU2, dU3], [a,b],h, [1/2,5/2,-9/2])
+
+Se van a ordenar de la forma 
+K11 K21 K 31 .... Kn1
+K12 K22 K 32 .... Kn2
+K13 K23 K 33 .... Kn3
