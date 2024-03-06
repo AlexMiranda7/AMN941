@@ -1,5 +1,3 @@
-clear all
-clc
 syms x
 disp('INTERPOLACIÓN Y POLINOMIO DE LAGRANGE')
 fprintf('-------------------------------------\n');
