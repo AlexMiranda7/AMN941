@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  6 MAR 2024 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.8)  6 MAR 2024 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -688,11 +688,19 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-<img/eje3_1.png, id=4, 514.92375pt x 77.53969pt>
+<img/eje3_1.png, id=4, 501.37312pt x 111.41624pt>
 File: img/eje3_1.png Graphic file (type png)
 <use img/eje3_1.png>
 Package pdftex.def Info: img/eje3_1.png  used on input line 64.
-(pdftex.def)             Requested size: 411.93954pt x 62.03181pt.
+(pdftex.def)             Requested size: 401.09903pt x 89.1331pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+(C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+ (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 <img/eje3_2.png, id=6, 563.10374pt x 158.84344pt>
 File: img/eje3_2.png Graphic file (type png)
 <use img/eje3_2.png>
@@ -708,30 +716,39 @@ Overfull \hbox (364.07512pt too wide) in paragraph at lines 73--74
 [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
-(C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
- (C:\Users\Alexander\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+[1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/eje3_1.png> <./img/eje3_2.png>] [2 <./img/eje3_3.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Guia 2\build\ejercicio3.aux) ) 
+{C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/eje3_1.png> <./img/eje3_2.png>]
+<img/eje3_4.png, id=16, 450.18187pt x 164.86594pt>
+File: img/eje3_4.png Graphic file (type png)
+<use img/eje3_4.png>
+Package pdftex.def Info: img/eje3_4.png  used on input line 81.
+(pdftex.def)             Requested size: 270.1112pt x 98.9203pt.
+<img/eje3_5.png, id=17, 1315.91624pt x 603.0028pt>
+File: img/eje3_5.png Graphic file (type png)
+<use img/eje3_5.png>
+Package pdftex.def Info: img/eje3_5.png  used on input line 82.
+(pdftex.def)             Requested size: 789.55585pt x 361.80447pt.
+
+Overfull \hbox (371.30217pt too wide) in paragraph at lines 81--83
+[] 
+ []
+
+[2 <./img/eje3_3.png>] [3 <./img/eje3_4.png> <./img/eje3_5.png>] (c:\Users\Alexander\Documents\GitHub\AMN941\Guia 2\build\ejercicio3.aux) ) 
 Here is how much of TeX's memory you used:
- 28737 strings out of 476331
- 740694 string characters out of 5785878
+ 28751 strings out of 476331
+ 740944 string characters out of 5785878
  1852660 words of memory out of 5000000
- 48693 multiletter control sequences out of 15000+600000
+ 48705 multiletter control sequences out of 15000+600000
  516743 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,773b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Guia 2\build\ejercicio3.pdf" (2 pages, 97338 bytes).
+<C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "c:\Users\Alexander\Documents\GitHub\AMN941\Guia 2\build\ejercicio3.pdf" (3 pages, 173568 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

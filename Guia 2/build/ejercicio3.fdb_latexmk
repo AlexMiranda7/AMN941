@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1709743010.29377 "c:/Users/Alexander/Documents/GitHub/AMN941/Guia 2/ejercicio3.tex" "build/ejercicio3.pdf" "ejercicio3" 1709743012.6091 0
+["pdflatex"] 1709743640.15464 "c:/Users/Alexander/Documents/GitHub/AMN941/Guia 2/ejercicio3.tex" "build/ejercicio3.pdf" "ejercicio3" 1709743642.62698 0
   "C:/Users/Alexander/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1707876763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alexander/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686271001 23180847 f957eccbbc7aeb106643cccfa2316738 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -19,7 +19,9 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx7.tfm" 1136765053 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmib10.tfm" 1136765053 1524 554068197b70979a55370e6c6495f441 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty" 1576433638 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -183,12 +185,14 @@
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Alexander/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/ejercicio3.aux" 1709743012 67 1ef9204e575c5392681f20eea05cdd6d "pdflatex"
-  "c:/Users/Alexander/Documents/GitHub/AMN941/Guia 2/ejercicio3.tex" 1709743009 3396 707d2a31cc95c4039c2106d6ba47bac3 ""
-  "ejercicio3.tex" 1709743009 3396 707d2a31cc95c4039c2106d6ba47bac3 ""
-  "img/eje3_1.png" 1709742474 26593 c54c987759509c20994fbe89b30ac51c ""
+  "build/ejercicio3.aux" 1709743642 67 3705c6601359574168251466ef4fff2b "pdflatex"
+  "c:/Users/Alexander/Documents/GitHub/AMN941/Guia 2/ejercicio3.tex" 1709743639 3828 a89870cfe2610ea78c27533016309932 ""
+  "ejercicio3.tex" 1709743639 3828 a89870cfe2610ea78c27533016309932 ""
+  "img/eje3_1.png" 1709743114 32826 a89fc20a7985d4fd97124d077d431cc3 ""
   "img/eje3_2.png" 1709742771 11995 63c4a36516734d19e6e1510af659d01d ""
   "img/eje3_3.png" 1709742888 47062 303138419504b6983fdf3fe6b065798a ""
+  "img/eje3_4.png" 1709743426 12127 c141438e66f81d9133b7950b0746bcb8 ""
+  "img/eje3_5.png" 1709743549 52880 44fc65193394628694b5cfe936b93f7c ""
   (generated)
   "build/ejercicio3.aux"
   "build/ejercicio3.log"
