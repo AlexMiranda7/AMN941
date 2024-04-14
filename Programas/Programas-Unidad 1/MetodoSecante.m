@@ -30,8 +30,8 @@ while(abs(pk - p1) > error)
 	cont = cont + 1;
 	po = p1;
 	p1 = pk;
-    a1 = subs(g,p1);
-    a2 = subs(g,po);
+    a1 = double(subs(g,p1));
+    a2 = double(subs(g,po));
     
     pk = p1 - a1*(p1-po)/(a1 - a2);
 	tol = abs(pk - p1);

@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Define Article %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Using Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{mdframed}
+\usepackage{booktabs}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{psfrag}
+\usepackage{pgfplots}
+\usepackage{bm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Other Settings
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\geometry{a4paper}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{ocre}{RGB}{243,102,25}
+\definecolor{mygray}{RGB}{243,243,244}
+\definecolor{deepGreen}{RGB}{26,111,0}
+\definecolor{shallowGreen}{RGB}{235,255,255}
+\definecolor{deepBlue}{RGB}{61,124,222}
+\definecolor{shallowBlue}{RGB}{235,249,255}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define an orangebox command %%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\orangebox[1]{\fcolorbox{ocre}{mygray}{\hspace{1em}#1\hspace{1em}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% English Environments %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newtheoremstyle{mytheoremstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\newtheoremstyle{myproblemstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowGreen,linecolor=deepGreen,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{theorem}{Theorem}[section]
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowBlue,linecolor=deepBlue,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{definition}{Definition}[section]
+\theoremstyle{myproblemstyle}
+\newmdtheoremenv[linecolor=black,leftmargin=0pt,innerleftmargin=10pt,innerrightmargin=10pt,]{problem}{Problem}[section]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Plotting Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepgfplotslibrary{colorbrewer}
+\pgfplotsset{width=8cm,compat=1.9}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title & Author %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Title}
+\author{Haoyun Qin}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\section*{Ejercicio 10}
+10. Una ventana circular de observación en un buque para la investigación marina tiene un radio de 1.5 pie, 
+y el centro de la ventana se encuentra a 20 pies de distancia del nivel del agua. Determine la fuerza del 
+fluido sobre la ventana, considere el peso específico del agua de mar igual a 64 lb/pie3, empleando la 
+regla compuesta de Newton-Cotes con n=6. Además, obtenga el valor exacto y el error de aproximación. \\
+
+\begin{figure}[ht]
+    \includegraphics*[scale=0.55]{img/nc10_1.png}
+\end{figure}
+\textbf{Datos:}
+\\Profundidad: $h(y)=20-y$
+\\Longitud horizontal de la ventana: $L(y)=3x=3\sqrt[2]{1.5-y}$ \indent      $y\epsilon [-1.5,1.5]$
+\\Densidad del agua de mar: $64lb/pie^3$
+\\Formula cerrada de Newton-Cotes para n=6 $\int_{a}^{b} f(x) \,dx \cong \frac{h}{140}[41f(x0)+216f(x1)+27f(x2)+272f(x3)+27f(x4)+216f(x5)+41f(x6)]$
+
+
+\noindent \\ La integral que buscamos quedaria de la siguiente manera:  $F= w\int_{a}^{b} h(y)L(y) \,dy$
+\\$F= 64\int_{-1.5}^{1.5} (20-y)3(1.5-y^2) \,dy$
+\\$F= 192\int_{-1.5}^{1.5} (20-y)(1.5-y^2) \,dy$ 
+\\Ingresamos a matlab:
+\\ a=-1.5;
+\\ b=1.5;
+\\$h=(b-a)/6$;
+\\ syms x;
+\\ $f=192*((20-x)*(1.5-x^2))$;
+\\ $aprox6=double((h/140)*(41*subs(f,a)+216*subs(f,a+h)+27*subs(f,a+2*h)+272*subs(f,a+3*h)+27*subs(f,a+4*h)+216*subs(f,a+5*h)+41*subs(f,b)))$
+\\
+\\aprox6 =
+\\
+\\        8640
+\\
+\begin{figure}[ht]
+    \includegraphics*[scale=0.55]{img/nc10_2.png}\\
+    \includegraphics*[scale=0.8]{img/nc10_3.png}
+\end{figure}
+\end{document}
